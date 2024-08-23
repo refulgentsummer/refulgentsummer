@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @refulgentsummer
 - 👀 I’m interested in soul-centered stuff
-- 🌱 I’m currently learning new ways to distribute content
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me ...
 
