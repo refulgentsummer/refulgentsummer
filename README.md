@@ -16,8 +16,6 @@ An ordained minister who builds software with AI agents. Two decades leading con
 
 **Prompt tooling** (2024–25). Testing harnesses that run a prompt against real user records and score the outputs, side-by-side model comparison, a prompt-template compiler, and the evaluation habit that came with them. The 47 production prompts above were shipped through this tooling.
 
-**Before software.** FAITHIFY (2013), Unitarian Universalism's crowdfunding platform, designed and run from inside the UUA; it has moved more than $2 million to congregational projects. Sacred Design Lab (2019–2023), a research and design consultancy I co-founded, with its own methodology, strategy screens, and the *Design for the Human Soul* tract. A Harvard Divinity School course on congregational polity, designed and taught.
-
 ## How I work
 
 Soul-centered design principles fuel my work.
@@ -26,16 +24,12 @@ Soul-centered design principles fuel my work.
 - Liberate the wisdom of the ancestors that has been trapped inside institutions.
 - Remix it and apply it to emergent design challenges.
 
-Framing user problems in terms of soul needs opens up worlds of product possibilities. Tend exists because there was no help for someone who wants a little ritual to make sense of something happening in their life.
-
-Every build has two sides. On the ancient side, everything I bring as an ordained practitioner: liturgical theory, the sociology of ritual, what traditions already know about what humans need. That comes first, always. On the technology side, the stack and workflow I design with AI agents to enact that wisdom step by step. The agents write the code; I own the judgment: what the product is for, what the model may never do, whether the result is any good.
-
-Ancient + technology, combined to give people transformative rituals that make real moments matter. The annotated ritual on [suephillips.io/work](https://suephillips-io.vercel.app/work) shows both sides on one page: the tradition's notes in the left margin, the machine's in the right.
+Framing user problems in terms of soul needs opens up worlds of product possibilities.
 
 ## Stack, as of this year
 
 Claude Code · Claude Opus and Sonnet 5 · Anthropic SDK · OpenAI embeddings · Next.js · Vercel · Upstash Redis · Vercel Blob · Supabase · Hume TTS · PostHog · Postmark · Go and Node CLIs · GraphQL. Earlier: GPT-3.5 through 4o, custom GPTs, fine-tuning, Cursor, Metabase.
 
-Most of my commits are in private repositories. The green squares are the public part.
+Most of my commits are in private repositories.
 
 **[suephillips.io](https://suephillips-io.vercel.app)** · Founding Ancient Technologist, West Co · Co-founder, Sacred Design Lab
