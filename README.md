@@ -14,7 +14,17 @@ An ordained minister who builds software with AI agents. Two decades leading con
 
 ## How I work
 
+Soul-centered design principles fuel my work.
 
+- Soul-deep problems require soul-deep solutions.
+- Liberate the wisdom of the ancestors that has been trapped inside institutions.
+- Remix it and apply it to emergent design challenges.
+
+Framing user problems in terms of soul needs opens up worlds of product possibilities. Tend exists because there was no help for someone who wants a little ritual to make sense of something happening in their life.
+
+Every build has two sides. On the ancient side, everything I bring as an ordained practitioner: liturgical theory, the sociology of ritual, what traditions already know about what humans need. That comes first, always. On the technology side, the stack and workflow I design with AI agents to enact that wisdom step by step. The agents write the code; I own the judgment: what the product is for, what the model may never do, whether the result is any good.
+
+Ancient + technology, combined to give people transformative rituals that make real moments matter. The annotated ritual on [suephillips.io/work](https://suephillips-io.vercel.app/work) shows both sides on one page: the tradition's notes in the left margin, the machine's in the right.
 
 ## Stack, as of this year
 
