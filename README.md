@@ -18,7 +18,7 @@ A religious leader who builds software with AI agents. Two decades leading congr
 
 ## How I work
 
-Soul-centered design principles fuel my work.
+Soul-centered design principles fuel my work. AI agents help me build.
 
 - Soul-deep problems require soul-deep solutions.
 - Liberate the wisdom of the ancestors that has been trapped inside institutions.
