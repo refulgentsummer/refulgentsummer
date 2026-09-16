@@ -12,6 +12,12 @@ An ordained minister who builds software with AI agents. Two decades leading con
 
 **47 production prompts** in the Tangle platform (397 commits, 2024–2026): the onboarding interview, user summaries, the charm suggester, the social gatekeeper, weekly summaries. Before that: the AI buildout plan, a 37,608-page source crawl, a gpt-4o-mini fine-tune, and two content batches of 1,600+ pieces that doubled the five-star rate while halving the cost per piece.
 
+**Knowledge infrastructure for wise AI** (2023–24). The wisdom corpus behind West Co's products: a trusted-sources plan, a 264-source crawl, embeddings, fine-tuning, and the curation rules that decide what a model may draw on. Tend's own corpus, 1,223 practices in 57 categories, grew out of this work, and I built that one myself.
+
+**Prompt tooling** (2024–25). Testing harnesses that run a prompt against real user records and score the outputs, side-by-side model comparison, a prompt-template compiler, and the evaluation habit that came with them. The 47 production prompts above were shipped through this tooling.
+
+**Before software.** FAITHIFY (2013), Unitarian Universalism's crowdfunding platform, designed and run from inside the UUA; it has moved more than $2 million to congregational projects. Sacred Design Lab (2019–2023), a research and design consultancy I co-founded, with its own methodology, strategy screens, and the *Design for the Human Soul* tract. A Harvard Divinity School course on congregational polity, designed and taught.
+
 ## How I work
 
 Soul-centered design principles fuel my work.
