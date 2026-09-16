@@ -1,6 +1,6 @@
 # Sue Phillips · ancient technologist
 
-An ordained minister who builds software with AI agents. Two decades leading congregations and organizations; since 2022, shipping products at [West Co](https://west.co). 
+A religious leader who builds software with AI agents. Two decades leading congregations and organizations; since 2022, shipping products at [West Co](https://west.co). 
 
 ## What I've built
 
